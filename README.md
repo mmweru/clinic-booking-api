@@ -87,6 +87,7 @@ tracking, re-booking history).
      (anyone can hit any endpoint right now), multi-location support,
      timezone handling (all times are assumed to be the clinic's local
      time), and recurring appointments.
+Note: hosted on Render's free tier — the first request after inactivity may take up to a minute to respond while the service wakes up.
 
 ---
 
