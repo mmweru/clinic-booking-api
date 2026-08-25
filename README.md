@@ -139,7 +139,7 @@ required to run the suite.
 
 ## Section 3: Deployment & CI/CD
 
-**Public URL:** `<ADD YOUR DEPLOYED URL HERE ONCE DEPLOYED>`
+**Public URL:** `https://clinic-booking-api-dgna.onrender.com/`
 
 **Deploy target:** Render (see step-by-step guide below) — swap for
 Fly.io/Railway by changing only the `deploy` job in
